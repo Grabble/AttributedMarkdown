@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   s.name         = "AttributedMarkdown"
   s.version      = "0.9.2"
   s.summary      = "A short description of AttributedMarkdown."
-  s.homepage     = "https://github.com/dreamwieber/AttributedMarkdown"
+  s.homepage     = "https://github.com/grabble/AttributedMarkdown"
   s.screenshots  = "http://gregorywieber.com/work/attributed_markdown.html"
   s.license      = { :type => 'MIT / GPL', :file => 'LICENSE' }
   s.author       = 'Gregory Wieber', 'Jim Radford'
